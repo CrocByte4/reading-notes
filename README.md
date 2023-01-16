@@ -4,7 +4,7 @@
 
 Hello there, I'm Joe. I am learning how to be a software developer, and some day I plan on immigrating to Australia.
 
-Feel free to have a look at my GitHub profile [My profile](https://github.com/CrocByte4)
+Feel free to have a look at [my GitHub profile](https://github.com/CrocByte4)
 
 ![How do I look?](https://avatars.githubusercontent.com/u/122234950?v=4)
 
