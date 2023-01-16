@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-
+[Class 02](https://crocbyte4.github.io/reading-notes/class-02)
 
 ## Who am I?
 
