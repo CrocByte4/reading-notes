@@ -1,5 +1,9 @@
 # reading-notes
 
+## Table of contents
+
+
+
 ## Who am I?
 
 Hello there, I'm Joe. I am learning how to be a software developer, and some day I plan on immigrating to Australia.
