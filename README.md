@@ -4,6 +4,8 @@
 
 Hello there, I'm Joe. I am learning how to be a software developer, and some day I plan on immigrating to Australia.
 
+![How do I look?](https://avatars.githubusercontent.com/u/122234950?v=4)
+
 ## What is this website?
 
 This is my reading notes for the full stack coding bootcamp. I might even get good at it some day.
