@@ -4,7 +4,7 @@
 
 [Code 102](https://crocbyte4.github.io/reading-notes/Code-102)
 
-[Class 02](https://crocbyte4.github.io/reading-notes/Code-102/class-02)
+[Class 02](https://crocbyte4.github.io/reading-notes/Code-102/class-02.md)
 
 [Class 03](https://crocbyte4.github.io/reading-notes/class-03)
 
