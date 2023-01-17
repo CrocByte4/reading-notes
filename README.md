@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-[Code 102](https://crocbyte4.github.io/reading-notes/code-102-contents-page.md)
+[Code 102](https://crocbyte4.github.io/reading-notes/code-102-contents-page)
 
 [Class 02](https://crocbyte4.github.io/reading-notes/Code-102/class-02.md)
 
