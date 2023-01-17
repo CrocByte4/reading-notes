@@ -6,19 +6,19 @@
 
 [Class 01](https://crocbyte4.github.io/reading-notes/Code-102/class-01)
 
-[Class 02](https://crocbyte4.github.io/reading-notes/Code-102/class-02.md)
+[Class 02](https://crocbyte4.github.io/reading-notes/Code-102/class-02)
 
-[Class 03](https://crocbyte4.github.io/reading-notes/Code-102/class-03.md)
+[Class 03](https://crocbyte4.github.io/reading-notes/Code-102/class-03)
 
-[Class 04](https://crocbyte4.github.io/reading-notes/Code-102/class-04.md)
+[Class 04](https://crocbyte4.github.io/reading-notes/Code-102/class-04)
 
-[Class 05](https://crocbyte4.github.io/reading-notes/Code-102/class-05.md)
+[Class 05](https://crocbyte4.github.io/reading-notes/Code-102/class-05)
 
-[Class 06](https://crocbyte4.github.io/reading-notes/Code-102/class-06.md)
+[Class 06](https://crocbyte4.github.io/reading-notes/Code-102/class-06)
 
-[Class 07](https://crocbyte4.github.io/reading-notes/Code-102/class-07.md)
+[Class 07](https://crocbyte4.github.io/reading-notes/Code-102/class-07)
 
-[Class 08](https://crocbyte4.github.io/reading-notes/Code-102/class-08.md)
+[Class 08](https://crocbyte4.github.io/reading-notes/Code-102/class-08)
 
 ### Code 201
 
