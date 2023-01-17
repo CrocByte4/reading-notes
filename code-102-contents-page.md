@@ -1,6 +1,6 @@
 # Code 102
 
-### Contents
+## Contents
 
 [Class 01](https://crocbyte4.github.io/reading-notes/Code-102/class-01.md)
 
