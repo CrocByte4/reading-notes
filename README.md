@@ -1,6 +1,9 @@
 # reading-notes
 
 ## Table of contents
+
+[Code 102](https://crocbyte4.github.io/reading-notes/Code-102)
+
 [Class 02](https://crocbyte4.github.io/reading-notes/class-02)
 
 [Class 03](https://crocbyte4.github.io/reading-notes/class-03)
