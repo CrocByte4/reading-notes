@@ -3,6 +3,8 @@
 ## Table of contents
 [Class 02](https://crocbyte4.github.io/reading-notes/class-02)
 
+[Class 03](https://crocbyte4.github.io/reading-notes/class-03)
+
 ## Who am I?
 
 Hello there, I'm Joe. I am learning how to be a software developer, and some day I plan on immigrating to Australia.
