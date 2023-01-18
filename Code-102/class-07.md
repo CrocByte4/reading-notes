@@ -1,1 +1,1 @@
-# Class 07
+# Class 07 - Programming with JavaScript

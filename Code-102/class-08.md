@@ -1,1 +1,2 @@
-# Class 08
+# Class 08 - Operators and Loops
+
