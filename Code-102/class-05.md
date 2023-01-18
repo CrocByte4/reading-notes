@@ -1,1 +1,2 @@
-# Class 05
+# Class 05 - Design web pages with CSS
+
